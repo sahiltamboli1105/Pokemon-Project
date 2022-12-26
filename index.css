@@ -1,0 +1,62 @@
+.main{
+    display: flex;
+    width: 100%;
+}
+.mainNav{
+    background-color: yellow;
+    
+}
+.mainLeftBox{
+    background-color: rgb(45, 45, 45);
+    width: 20%;
+    /* height: fit-content; */
+}
+/* .my-2{
+    display: flex;
+    position: absolute;
+    right: 0;
+}
+.mr-sm-2{
+    margin-right: 80px;
+}
+.navbar{
+    background-color: #FCCF57;
+    padding: 5px;
+} */
+.mainLeftBoxHead{
+    color: rgb(243, 239, 239);
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.mainBody{
+    width: 100%;
+}
+.types{
+    color: rgb(0, 0, 0);
+    
+    /* font-weight: 100; */
+    /* font-size: 22px; */
+    text-transform: capitalize;
+    /* text-align: center; */
+    margin-left: 5px;
+    cursor: pointer;
+}
+.bodyHead{
+    /* width: 500px; */
+    text-align: center;
+    height: 65px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    /* margin-top: 5px; */
+    /* color: rgb(244, 147, 212); */
+}
+.bodyMain{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* background-color: red; */
+}
+.bodyMain-2{
+    margin: 7px;
+}
